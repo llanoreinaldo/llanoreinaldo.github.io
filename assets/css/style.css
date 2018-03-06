@@ -162,6 +162,7 @@ footer {
 /*portfolio*/
 .work {
     width: 274px;
+    height: auto;
     overflow: auto;
     position: relative;
     float: left;
