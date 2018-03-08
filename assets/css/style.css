@@ -116,6 +116,14 @@ nav a:first-child {
     margin-right: 25px
 }
 
+.image {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    float: left;
+    margin-right: 25px
+}
+
 /*sidebar*/
 .sidebar {
     background: #fff;
