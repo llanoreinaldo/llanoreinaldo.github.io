@@ -9,6 +9,15 @@ html {
   color: #666;
 }
 
+hr {
+  background-color: white;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
 #createBoard {
   padding: 11px 50px;
   font-size: 15px;
